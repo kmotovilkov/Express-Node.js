@@ -49,8 +49,8 @@ var loadItem = () => {
 };
 
 module.exports = {
-    putItem: putItem,
     getItem: getItem,
+    putItem: putItem,
     updateItem: updateItem,
     deleteItem: deleteItem,
     clearItem: clearItem,
